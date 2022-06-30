@@ -7,20 +7,20 @@ import simpy
 import json
 
 FOTOS_MOTORISTAS = [
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/ayrton1.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/ayrton2.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/ayrton3.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/roberto1.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/roberto2.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/roberto3.jpeg", 
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/zeca1.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/zeca2.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/zeca3.jpeg",                
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/rubinho1.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/rubinho2.jpeg",
-                "/home/yullo/dev/ifba/IHM/estacionamento/faces/rubinho3.jpeg"                
+                "./faces/ayrton1.jpeg",
+                "./faces/ayrton2.jpeg",
+                "./faces/ayrton3.jpeg",
+                "./faces/roberto1.jpeg",
+                "./faces/roberto2.jpeg",
+                "./faces/roberto3.jpeg", 
+                "./faces/zeca1.jpeg",
+                "./faces/zeca2.jpeg",
+                "./faces/zeca3.jpeg",                
+                "./faces/rubinho1.jpeg",
+                "./faces/rubinho2.jpeg",
+                "./faces/rubinho3.jpeg"                
 ]
-ARQUIVO_CONFIGURACAO = "/home/yullo/dev/ifba/IHM/estacionamento/configuracao.json"
+ARQUIVO_CONFIGURACAO = "./configuracao.json"
 
 PROBABILIDADE_A1 = 6
 PROBABILIDADE_A2 = 36
