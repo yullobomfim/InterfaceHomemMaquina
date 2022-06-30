@@ -1,0 +1,35 @@
+{
+    "versao": "0.2",
+    "clientes": [
+        {
+            "nome": "Ayrton Senna do Brasil",
+            "mensalista": true,
+            "status": "pago", 
+            "fotos": [
+                "./faces/ayrton1.jpeg",
+                "./faces/ayrton2.jpeg",
+                "./faces/ayrton3.jpeg"
+            ],
+            "vagas": [
+                "A1",
+                "A2",
+                "A3"
+            ]
+        },
+        {
+            "nome": "Rubinho Barichello",
+            "mensalista": true,
+            "status": "pago", 
+            "fotos": [
+                "./faces/rubinho1.jpeg",
+                "./faces/rubinho2.jpeg",
+                "./faces/rubinho3.jpeg"                
+            ],
+            "vagas": [
+                "B1",
+                "B2",
+                "B3"
+            ]
+        }                
+    ]
+}

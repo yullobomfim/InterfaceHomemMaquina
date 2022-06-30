@@ -1,0 +1,35 @@
+{
+    "versao": "0.1",
+    "clientes": [
+        {
+            "nome": "Ayrton Senna do Brasil",
+            "mensalista": true,
+            "status": "pago", 
+            "fotos": [
+                "/home/yullo/dev/ifba/IHM/estacionamento/faces/ayrton1.jpeg",
+                "/home/yullo/dev/ifba/IHM/estacionamento/faces/ayrton2.jpeg",
+                "/home/yullo/dev/ifba/IHM/estacionamento/faces/ayrton3.jpeg"
+            ],
+            "vagas": [
+                "A1",
+                "A2",
+                "A3"
+            ]
+        },
+        {
+            "nome": "Rubinho Barichello",
+            "mensalista": true,
+            "status": "pago", 
+            "fotos": [
+                "/home/yullo/dev/ifba/IHM/estacionamento/faces/rubinho1.jpeg",
+                "/home/yullo/dev/ifba/IHM/estacionamento/faces/rubinho2.jpeg",
+                "/home/yullo/dev/ifba/IHM/estacionamento/faces/rubinho3.jpeg"                
+            ],
+            "vagas": [
+                "B1",
+                "B2",
+                "B3"
+            ]
+        }                
+    ]
+}
